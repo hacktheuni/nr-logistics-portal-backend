@@ -3,7 +3,7 @@ dotenv.config();
 
 export const config = {
   databaseUrl: process.env.DATABASE_URL,
-  directDBUrl: process.env.DIRECTDB_URL,
+  directUrl: process.env.DIRECTDB_URL,
   port: Number(process.env.PORT),
   jwtAccessTokenSecret: process.env.JWT_ACCESS_TOKEN_SECRET,
   jwtRefreshTokenSecret: process.env.JWT_REFRESH_TOKEN_SECRET,
