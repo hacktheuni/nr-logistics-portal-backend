@@ -93,6 +93,37 @@ export class AppAuthService {
             throw new ApiError(error.response?.status || 500, "Failed to get user profile from Hermes");
         }
     }
+
+    /**
+     * Refresh tokens using a refresh token
+     */
+    static async refreshTokens(refreshToken: string): Promise<{ accessToken: string; idToken: string; expiresIn: number }> {
+        const client = createCognitoClient("InitiateAuth");
+        try {
+            const response = await client.post("/", {
+                ClientId: clientId,
+                AuthFlow: "REFRESH_TOKEN_AUTH",
+                AuthParameters: {
+                    REFRESH_TOKEN: refreshToken
+                }
+            });
+
+            if (!response.data || !response.data.AuthenticationResult) {
+                throw new ApiError(401, "Invalid refresh token");
+            }
+
+            const { AccessToken, IdToken, ExpiresIn } = response.data.AuthenticationResult;
+
+            return {
+                accessToken: AccessToken,
+                idToken: IdToken,
+                expiresIn: ExpiresIn
+            };
+        } catch (error: any) {
+            console.error("Error refreshing tokens from Cognito:", error.response?.data || error.message);
+            throw new ApiError(error.response?.status || 401, "Failed to refresh tokens from Hermes");
+        }
+    }
 }
 
 export default AppAuthService;
