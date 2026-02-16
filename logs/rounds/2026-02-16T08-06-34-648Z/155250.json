@@ -1,0 +1,120 @@
+{
+  "summary": {
+    "roundId": "155250",
+    "allocationType": "C",
+    "subDepotNumber": "76",
+    "subDepotName": "Bradford 3",
+    "depotId": "15",
+    "subDepotDrop": "23",
+    "subDepotPostalcode": "BD4 9SN"
+  },
+  "details": {
+    "roundId": "155250",
+    "postCodes": [
+      "BD12 0AH",
+      "BD12 0AJ",
+      "BD12 0AQ",
+      "BD12 0AW",
+      "BD12 0DJ",
+      "BD12 0DL",
+      "BD12 0DN",
+      "BD12 0DS",
+      "BD12 0DW",
+      "BD12 0DX",
+      "BD12 0EA",
+      "BD12 0EB",
+      "BD12 0ED",
+      "BD12 0EG",
+      "BD12 0EH",
+      "BD12 0EJ",
+      "BD12 0EL",
+      "BD12 0EN",
+      "BD12 0EP",
+      "BD12 0ER",
+      "BD12 0ES",
+      "BD12 0EU",
+      "BD12 0EW",
+      "BD12 0EY",
+      "BD12 0EZ",
+      "BD12 0HA",
+      "BD12 0TL",
+      "BD12 0TN",
+      "BD12 0TP",
+      "BD12 0TR",
+      "BD12 0TS",
+      "BD12 0TT",
+      "BD12 0TU",
+      "BD12 0TX",
+      "BD12 0TY",
+      "BD12 0UA",
+      "BD12 8AA",
+      "BD12 8AB",
+      "BD12 8AD",
+      "BD12 8AE"
+    ],
+    "rates": [
+      {
+        "paymentRateGroup": [
+          "COURIER RATE 073P STD                                                                               "
+        ],
+        "standardRates": {
+          "parcel": 0,
+          "collection": 0.58
+        },
+        "sundayPayRates": "0.00",
+        "additionalParcelTypeRates": [
+          {
+            "parcelType": "Postable                                                                                            ",
+            "parcelTypeRate": 0.44
+          },
+          {
+            "parcelType": "Small Packet",
+            "parcelTypeRate": 0.5
+          },
+          {
+            "parcelType": "Packet                                                                                              ",
+            "parcelTypeRate": 0.55
+          },
+          {
+            "parcelType": "Standard                                                                                            ",
+            "parcelTypeRate": 0.73
+          },
+          {
+            "parcelType": "Hanging Garment                                                                                     ",
+            "parcelTypeRate": 0.73
+          },
+          {
+            "parcelType": "Heavy                                                                                               ",
+            "parcelTypeRate": 1
+          },
+          {
+            "parcelType": "Heavy/Large                                                                                         ",
+            "parcelTypeRate": 1
+          },
+          {
+            "parcelType": "Small Catalogue                                                                                     ",
+            "parcelTypeRate": 0.55
+          },
+          {
+            "parcelType": "Medium Catalogue                                                                                    ",
+            "parcelTypeRate": 0.66
+          }
+        ],
+        "additionalServiceOfferRates": [],
+        "prgType": "GENERAL"
+      }
+    ],
+    "subdepot": {
+      "subdepotId": "76",
+      "subdepotName": "Bradford 3",
+      "line1": "Unit 3, Bridgeway",
+      "line2": "Bradford",
+      "postcode": "BD4 9SN",
+      "subDepotDrop": "23",
+      "coordinates": {
+        "latitude": "53.7744075",
+        "longitude": "-1.7200626"
+      }
+    }
+  }
+}

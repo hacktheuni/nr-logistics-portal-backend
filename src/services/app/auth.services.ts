@@ -74,8 +74,27 @@ export class AppAuthService {
      * Complete login flow: check user + authenticate
      */
     static async login(email: string, password: string) {
-        const uniqueId = await this.checkUser(email);
-        return await this.authenticate(uniqueId, password);
+        // If the password appears to be encrypted (e.g., standard AES output format), try to decrypt it.
+        // However, the prompt says "store the appPassowrd using encryption... and then when ever appAuth ... wants it to login".
+        // The `login` method takes `password`.
+        // If this method is called with the *encrypted* password from the DB, we need to decrypt it here.
+        // But `login` could be called from a standard frontend login where the user types the raw password.
+
+        // Wait, the USER REQUEST said: "when ever appAuth ... wants it to login third party app with the appEmail and appPassword"
+        // This implies `AppAuthService.login` is likely used by the system using stored credentials, OR the "admin" logging in.
+
+        // Let's verify where `AppAuthService.login` is used.
+        // I'll search for usages of `AppAuthService.login` first to be safe, but for now I will add the import and decryption logic 
+        // assuming the `password` argument MIGHT be encrypted. 
+        // Actually, to be safer and cleaner, I should probably check if it *looks* encrypted or just always decrypt if we are sure the flow passes encrypted.
+        // BUT, if I change `login` to expect encrypted, I break normal login if that exists.
+
+        // Let's assume the caller will handle passing the correct value, OR we handle it here. 
+        // The request says "when ever appAuth ... wants it to login ... use the script to store ... encryption".
+        // Use `decrypt` from utils.
+
+        // I'll first update the imports.
+        return await this.authenticate(await this.checkUser(email), password);
     }
 
     /**

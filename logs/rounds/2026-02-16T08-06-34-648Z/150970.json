@@ -1,0 +1,120 @@
+{
+  "summary": {
+    "roundId": "150970",
+    "allocationType": "C",
+    "subDepotNumber": "87",
+    "subDepotName": "Halifax 2",
+    "depotId": "15",
+    "subDepotDrop": "89",
+    "subDepotPostalcode": "HX6 1AN"
+  },
+  "details": {
+    "roundId": "150970",
+    "postCodes": [
+      "HX4 8AN",
+      "HX4 8AP",
+      "HX4 8AR",
+      "HX4 8AS",
+      "HX4 8AT",
+      "HX4 8AU",
+      "HX4 8AW",
+      "HX4 8AX",
+      "HX4 8AY",
+      "HX4 8EF",
+      "HX4 8EN",
+      "HX4 8EP",
+      "HX4 8ER",
+      "HX4 8EU",
+      "HX4 8EY",
+      "HX4 8FA",
+      "HX4 8HE",
+      "HX4 8HF",
+      "HX4 8HH",
+      "HX4 8HJ",
+      "HX4 8HL",
+      "HX4 8HN",
+      "HX4 8HP",
+      "HX4 8HQ",
+      "HX4 8HR",
+      "HX4 8HS",
+      "HX4 8HT",
+      "HX4 8HU",
+      "HX4 8HW",
+      "HX4 8HX",
+      "HX4 8HY",
+      "HX4 8HZ",
+      "HX4 8JA",
+      "HX4 8JB",
+      "HX4 8JD",
+      "HX4 8JE",
+      "HX4 8JG",
+      "HX4 8JH",
+      "HX4 8JQ",
+      "HX4 8JU"
+    ],
+    "rates": [
+      {
+        "paymentRateGroup": [
+          "COURIER RATE 073P STD                                                                               "
+        ],
+        "standardRates": {
+          "parcel": 0,
+          "collection": 0.58
+        },
+        "sundayPayRates": "0.00",
+        "additionalParcelTypeRates": [
+          {
+            "parcelType": "Postable                                                                                            ",
+            "parcelTypeRate": 0.44
+          },
+          {
+            "parcelType": "Small Packet",
+            "parcelTypeRate": 0.5
+          },
+          {
+            "parcelType": "Packet                                                                                              ",
+            "parcelTypeRate": 0.55
+          },
+          {
+            "parcelType": "Standard                                                                                            ",
+            "parcelTypeRate": 0.73
+          },
+          {
+            "parcelType": "Hanging Garment                                                                                     ",
+            "parcelTypeRate": 0.73
+          },
+          {
+            "parcelType": "Heavy                                                                                               ",
+            "parcelTypeRate": 1
+          },
+          {
+            "parcelType": "Heavy/Large                                                                                         ",
+            "parcelTypeRate": 1
+          },
+          {
+            "parcelType": "Small Catalogue                                                                                     ",
+            "parcelTypeRate": 0.55
+          },
+          {
+            "parcelType": "Medium Catalogue                                                                                    ",
+            "parcelTypeRate": 0.66
+          }
+        ],
+        "additionalServiceOfferRates": [],
+        "prgType": "GENERAL"
+      }
+    ],
+    "subdepot": {
+      "subdepotId": "87",
+      "subdepotName": "Halifax 2",
+      "line1": "Walton Street Garage",
+      "line2": "Walton Street",
+      "postcode": "HX6 1AN",
+      "subDepotDrop": "89",
+      "coordinates": {
+        "latitude": "53.7097358",
+        "longitude": "-1.9157451"
+      }
+    }
+  }
+}

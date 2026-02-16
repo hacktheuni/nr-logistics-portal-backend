@@ -1,0 +1,120 @@
+{
+  "summary": {
+    "roundId": "152151",
+    "allocationType": "C",
+    "subDepotNumber": "95",
+    "subDepotName": "Dewsbury 1",
+    "depotId": "15",
+    "subDepotDrop": "23",
+    "subDepotPostalcode": "LS270FU"
+  },
+  "details": {
+    "roundId": "152151",
+    "postCodes": [
+      "WF13 4AA",
+      "WF13 4AB",
+      "WF13 4DT",
+      "WF13 4SH",
+      "WF17 6AA",
+      "WF17 6AB",
+      "WF17 6AD",
+      "WF17 6AE",
+      "WF17 6AF",
+      "WF17 6AQ",
+      "WF17 6BP",
+      "WF17 6BS",
+      "WF17 6BU",
+      "WF17 6BW",
+      "WF17 6BX",
+      "WF17 6BY",
+      "WF17 6EW",
+      "WF17 6JF",
+      "WF17 6JH",
+      "WF17 6JJ",
+      "WF17 6JL",
+      "WF17 6JQ",
+      "WF17 6JS",
+      "WF17 6JT",
+      "WF17 6JU",
+      "WF17 6JX",
+      "WF17 7BH",
+      "WF17 7BJ",
+      "WF17 7BN",
+      "WF17 7BR",
+      "WF17 7JH",
+      "WF17 7JJ",
+      "WF17 7JL",
+      "WF17 7JP",
+      "WF17 7JR",
+      "WF17 7JS",
+      "WF17 7JT",
+      "WF17 7JU",
+      "WF17 7JW",
+      "WF17 7JX"
+    ],
+    "rates": [
+      {
+        "paymentRateGroup": [
+          "COURIER RATE 080P STD                                                                               "
+        ],
+        "standardRates": {
+          "parcel": 0,
+          "collection": 0.64
+        },
+        "sundayPayRates": "0.00",
+        "additionalParcelTypeRates": [
+          {
+            "parcelType": "Postable                                                                                            ",
+            "parcelTypeRate": 0.48
+          },
+          {
+            "parcelType": "Small Packet",
+            "parcelTypeRate": 0.55
+          },
+          {
+            "parcelType": "Packet                                                                                              ",
+            "parcelTypeRate": 0.6
+          },
+          {
+            "parcelType": "Standard                                                                                            ",
+            "parcelTypeRate": 0.8
+          },
+          {
+            "parcelType": "Hanging Garment                                                                                     ",
+            "parcelTypeRate": 0.8
+          },
+          {
+            "parcelType": "Heavy                                                                                               ",
+            "parcelTypeRate": 1
+          },
+          {
+            "parcelType": "Heavy/Large                                                                                         ",
+            "parcelTypeRate": 1
+          },
+          {
+            "parcelType": "Small Catalogue                                                                                     ",
+            "parcelTypeRate": 0.6
+          },
+          {
+            "parcelType": "Medium Catalogue                                                                                    ",
+            "parcelTypeRate": 0.72
+          }
+        ],
+        "additionalServiceOfferRates": [],
+        "prgType": "GENERAL"
+      }
+    ],
+    "subdepot": {
+      "subdepotId": "95",
+      "subdepotName": "Dewsbury 1",
+      "line1": "Units 8 & 9",
+      "line2": "Howley Park Logistics Hub",
+      "postcode": "LS270FU",
+      "subDepotDrop": "23",
+      "coordinates": {
+        "latitude": "53.7346693",
+        "longitude": "-1.6067246"
+      }
+    }
+  }
+}

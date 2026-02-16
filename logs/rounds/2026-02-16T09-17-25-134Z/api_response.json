@@ -1,0 +1,1593 @@
+{
+  "planDays": [
+    {
+      "planDate": "2026-02-16",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [
+        {
+          "roundId": "151469",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151515",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "38",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151282",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "46",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "157937",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "18",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "154431",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "150685",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "07",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150566",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "27",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150538",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "15",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "150165",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "06",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150176",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "06",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "150286",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "02",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "151970",
+          "allocationType": "C",
+          "subDepotNumber": "72",
+          "subDepotName": "Bradford 1",
+          "depotId": "15",
+          "subDepotDrop": "72",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151837",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "31",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "151883",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "94",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150970",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "89",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150923",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "88",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150921",
+          "allocationType": "C",
+          "subDepotNumber": "72",
+          "subDepotName": "Bradford 1",
+          "depotId": "15",
+          "subDepotDrop": "99",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "155250",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "23",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "152370",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "45",
+          "subDepotPostalcode": "LS270FU"
+        },
+        {
+          "roundId": "152430",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "51",
+          "subDepotPostalcode": "LS270FU"
+        },
+        {
+          "roundId": "152151",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "23",
+          "subDepotPostalcode": "LS270FU"
+        }
+      ],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-02-17",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [
+        {
+          "roundId": "151469",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151515",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "38",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151282",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "46",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "157937",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "18",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "154431",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "150685",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "07",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150566",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "27",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150538",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "15",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "150165",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "06",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150176",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "06",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "150286",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "02",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "151970",
+          "allocationType": "C",
+          "subDepotNumber": "72",
+          "subDepotName": "Bradford 1",
+          "depotId": "15",
+          "subDepotDrop": "72",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151837",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "31",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "151883",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "94",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150970",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "89",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150923",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "88",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150921",
+          "allocationType": "C",
+          "subDepotNumber": "72",
+          "subDepotName": "Bradford 1",
+          "depotId": "15",
+          "subDepotDrop": "99",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "155250",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "23",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "152370",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "45",
+          "subDepotPostalcode": "LS270FU"
+        },
+        {
+          "roundId": "152430",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "51",
+          "subDepotPostalcode": "LS270FU"
+        },
+        {
+          "roundId": "152151",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "23",
+          "subDepotPostalcode": "LS270FU"
+        }
+      ],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-02-18",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [
+        {
+          "roundId": "151469",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151515",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "38",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151282",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "46",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "157937",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "18",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "154431",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "150685",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "07",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150566",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "27",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150538",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "15",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "150165",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "06",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150176",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "06",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "150286",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "02",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "151970",
+          "allocationType": "C",
+          "subDepotNumber": "72",
+          "subDepotName": "Bradford 1",
+          "depotId": "15",
+          "subDepotDrop": "72",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151837",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "31",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "151883",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "94",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150970",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "89",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150923",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "88",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150921",
+          "allocationType": "C",
+          "subDepotNumber": "72",
+          "subDepotName": "Bradford 1",
+          "depotId": "15",
+          "subDepotDrop": "99",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "155250",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "23",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "152370",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "45",
+          "subDepotPostalcode": "LS270FU"
+        },
+        {
+          "roundId": "152430",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "51",
+          "subDepotPostalcode": "LS270FU"
+        },
+        {
+          "roundId": "152151",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "23",
+          "subDepotPostalcode": "LS270FU"
+        }
+      ],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-02-19",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [
+        {
+          "roundId": "151469",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151515",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "38",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151282",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "46",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "157937",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "18",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "154431",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "150685",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "07",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150566",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "27",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150538",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "15",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "150165",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "06",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150176",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "06",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "150286",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "02",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "151970",
+          "allocationType": "C",
+          "subDepotNumber": "72",
+          "subDepotName": "Bradford 1",
+          "depotId": "15",
+          "subDepotDrop": "72",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151837",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "31",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "151883",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "94",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150970",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "89",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150923",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "88",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150921",
+          "allocationType": "C",
+          "subDepotNumber": "72",
+          "subDepotName": "Bradford 1",
+          "depotId": "15",
+          "subDepotDrop": "99",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "155250",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "23",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "152370",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "45",
+          "subDepotPostalcode": "LS270FU"
+        },
+        {
+          "roundId": "152430",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "51",
+          "subDepotPostalcode": "LS270FU"
+        },
+        {
+          "roundId": "152151",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "23",
+          "subDepotPostalcode": "LS270FU"
+        }
+      ],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-02-20",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [
+        {
+          "roundId": "151469",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151515",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "38",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151282",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "46",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "157937",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "18",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "154431",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "150685",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "07",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150566",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "27",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150538",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "15",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "150165",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "06",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150176",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "06",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "150286",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "02",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "151970",
+          "allocationType": "C",
+          "subDepotNumber": "72",
+          "subDepotName": "Bradford 1",
+          "depotId": "15",
+          "subDepotDrop": "72",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151837",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "31",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "151883",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "94",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150970",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "89",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150923",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "88",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150921",
+          "allocationType": "C",
+          "subDepotNumber": "72",
+          "subDepotName": "Bradford 1",
+          "depotId": "15",
+          "subDepotDrop": "99",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "155250",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "23",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "152370",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "45",
+          "subDepotPostalcode": "LS270FU"
+        },
+        {
+          "roundId": "152430",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "51",
+          "subDepotPostalcode": "LS270FU"
+        },
+        {
+          "roundId": "152151",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "23",
+          "subDepotPostalcode": "LS270FU"
+        }
+      ],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-02-21",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [
+        {
+          "roundId": "151469",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151515",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "38",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151282",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "46",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "157937",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "18",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "154431",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "150685",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "07",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150566",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "27",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150538",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "15",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "150165",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "06",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150176",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "06",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "150286",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "02",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "151970",
+          "allocationType": "C",
+          "subDepotNumber": "72",
+          "subDepotName": "Bradford 1",
+          "depotId": "15",
+          "subDepotDrop": "72",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151837",
+          "allocationType": "C",
+          "subDepotNumber": "63",
+          "subDepotName": "Ripon 2",
+          "depotId": "15",
+          "subDepotDrop": "31",
+          "subDepotPostalcode": "HG4 1QW"
+        },
+        {
+          "roundId": "151883",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "94",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150970",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "89",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150923",
+          "allocationType": "C",
+          "subDepotNumber": "87",
+          "subDepotName": "Halifax 2",
+          "depotId": "15",
+          "subDepotDrop": "88",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150921",
+          "allocationType": "C",
+          "subDepotNumber": "72",
+          "subDepotName": "Bradford 1",
+          "depotId": "15",
+          "subDepotDrop": "99",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "155250",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "23",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "152370",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "45",
+          "subDepotPostalcode": "LS270FU"
+        },
+        {
+          "roundId": "152430",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "51",
+          "subDepotPostalcode": "LS270FU"
+        },
+        {
+          "roundId": "152151",
+          "allocationType": "C",
+          "subDepotNumber": "95",
+          "subDepotName": "Dewsbury 1",
+          "depotId": "15",
+          "subDepotDrop": "23",
+          "subDepotPostalcode": "LS270FU"
+        }
+      ],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-02-22",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [
+        {
+          "roundId": "150108",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "24",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150099",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "05",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150333",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "22",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150273",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "28",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "150254",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "26",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "151290",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "21",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "151559",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "HX6 1AN"
+        },
+        {
+          "roundId": "151398",
+          "allocationType": "C",
+          "subDepotNumber": "77",
+          "subDepotName": "Halifax 1",
+          "depotId": "15",
+          "subDepotDrop": "33",
+          "subDepotPostalcode": "HX6 1AN"
+        }
+      ],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-02-23",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [
+        {
+          "roundId": "151469",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151515",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "38",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151282",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "46",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "157937",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "18",
+          "subDepotPostalcode": "BD4 9SN"
+        }
+      ],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-02-24",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [
+        {
+          "roundId": "151469",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151515",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "38",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151282",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "46",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "157937",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "18",
+          "subDepotPostalcode": "BD4 9SN"
+        }
+      ],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-02-25",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [
+        {
+          "roundId": "151469",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151515",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "38",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151282",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "46",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "157937",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "18",
+          "subDepotPostalcode": "BD4 9SN"
+        }
+      ],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-02-26",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [
+        {
+          "roundId": "151469",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151515",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "38",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151282",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "46",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "157937",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "18",
+          "subDepotPostalcode": "BD4 9SN"
+        }
+      ],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-02-27",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [
+        {
+          "roundId": "151469",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151515",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "38",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151282",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "46",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "157937",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "18",
+          "subDepotPostalcode": "BD4 9SN"
+        }
+      ],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-02-28",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [
+        {
+          "roundId": "151469",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "29",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151515",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "38",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "151282",
+          "allocationType": "C",
+          "subDepotNumber": "76",
+          "subDepotName": "Bradford 3",
+          "depotId": "15",
+          "subDepotDrop": "46",
+          "subDepotPostalcode": "BD4 9SN"
+        },
+        {
+          "roundId": "157937",
+          "allocationType": "C",
+          "subDepotNumber": "74",
+          "subDepotName": "Bradford 2",
+          "depotId": "15",
+          "subDepotDrop": "18",
+          "subDepotPostalcode": "BD4 9SN"
+        }
+      ],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-03-01",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-03-02",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-03-03",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-03-04",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-03-05",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-03-06",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-03-07",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-03-08",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [],
+      "roundOffers": []
+    },
+    {
+      "planDate": "2026-03-09",
+      "availabilityHours": null,
+      "availabilityStatus": "NOT_SET",
+      "roundAllocations": [],
+      "roundOffers": []
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "summary": {
+    "roundId": "150286",
+    "allocationType": "C",
+    "subDepotNumber": "63",
+    "subDepotName": "Ripon 2",
+    "depotId": "15",
+    "subDepotDrop": "02",
+    "subDepotPostalcode": "HG4 1QW"
+  },
+  "details": {
+    "roundId": "150286",
+    "postCodes": [
+      "HG1 2YR",
+      "HG1 2YS",
+      "HG1 2ZB",
+      "HG1 4AA",
+      "HG1 4AB",
+      "HG1 4AD",
+      "HG1 4AE",
+      "HG1 4AF",
+      "HG1 4AG",
+      "HG1 4AH",
+      "HG1 4AJ",
+      "HG1 4AL",
+      "HG1 4AN",
+      "HG1 4AP",
+      "HG1 4AQ",
+      "HG1 4AR",
+      "HG1 4AS",
+      "HG1 4AT",
+      "HG1 4AU",
+      "HG1 4AW",
+      "HG1 4AX",
+      "HG1 4AY",
+      "HG1 4AZ",
+      "HG1 4BA",
+      "HG1 4BB",
+      "HG1 4BD",
+      "HG1 4BE",
+      "HG1 4BF",
+      "HG1 4BG",
+      "HG1 4BH",
+      "HG1 4BJ",
+      "HG1 4BL",
+      "HG1 4BN",
+      "HG1 4BP",
+      "HG1 4BQ",
+      "HG1 4BS",
+      "HG1 4BT",
+      "HG1 4BU",
+      "HG1 4BW",
+      "HG1 4BX"
+    ],
+    "rates": [
+      {
+        "paymentRateGroup": [
+          "COURIER RATE 085P STD                                                                               "
+        ],
+        "standardRates": {
+          "parcel": 0,
+          "collection": 0.68
+        },
+        "sundayPayRates": "0.00",
+        "additionalParcelTypeRates": [
+          {
+            "parcelType": "Postable                                                                                            ",
+            "parcelTypeRate": 0.51
+          },
+          {
+            "parcelType": "Small Packet",
+            "parcelTypeRate": 0.59
+          },
+          {
+            "parcelType": "Packet                                                                                              ",
+            "parcelTypeRate": 0.64
+          },
+          {
+            "parcelType": "Standard                                                                                            ",
+            "parcelTypeRate": 0.85
+          },
+          {
+            "parcelType": "Hanging Garment                                                                                     ",
+            "parcelTypeRate": 0.85
+          },
+          {
+            "parcelType": "Heavy                                                                                               ",
+            "parcelTypeRate": 1
+          },
+          {
+            "parcelType": "Heavy/Large                                                                                         ",
+            "parcelTypeRate": 1
+          },
+          {
+            "parcelType": "Small Catalogue                                                                                     ",
+            "parcelTypeRate": 0.64
+          },
+          {
+            "parcelType": "Medium Catalogue                                                                                    ",
+            "parcelTypeRate": 0.77
+          }
+        ],
+        "additionalServiceOfferRates": [],
+        "prgType": "GENERAL"
+      }
+    ],
+    "subdepot": {
+      "subdepotId": "63",
+      "subdepotName": "Ripon 2",
+      "line1": "Unit 1 Bondgate Green",
+      "line2": "",
+      "postcode": "HG4 1QW",
+      "subDepotDrop": "02",
+      "coordinates": {
+        "latitude": "54.1324176",
+        "longitude": "-1.5160999"
+      }
+    }
+  }
+}

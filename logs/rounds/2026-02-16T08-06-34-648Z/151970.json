@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "roundId": "151970",
+    "allocationType": "C",
+    "subDepotNumber": "72",
+    "subDepotName": "Bradford 1",
+    "depotId": "15",
+    "subDepotDrop": "72",
+    "subDepotPostalcode": "BD4 9SN"
+  },
+  "details": {
+    "roundId": "151970",
+    "postCodes": [],
+    "rates": [
+      {
+        "paymentRateGroup": [
+          "COURIER RATE 076P STD                                                                               "
+        ],
+        "standardRates": {
+          "parcel": 0,
+          "collection": 0.61
+        },
+        "sundayPayRates": "0.00",
+        "additionalParcelTypeRates": [
+          {
+            "parcelType": "Postable                                                                                            ",
+            "parcelTypeRate": 0.46
+          },
+          {
+            "parcelType": "Small Packet",
+            "parcelTypeRate": 0.52
+          },
+          {
+            "parcelType": "Packet                                                                                              ",
+            "parcelTypeRate": 0.57
+          },
+          {
+            "parcelType": "Standard                                                                                            ",
+            "parcelTypeRate": 0.76
+          },
+          {
+            "parcelType": "Hanging Garment                                                                                     ",
+            "parcelTypeRate": 0.76
+          },
+          {
+            "parcelType": "Heavy                                                                                               ",
+            "parcelTypeRate": 1
+          },
+          {
+            "parcelType": "Heavy/Large                                                                                         ",
+            "parcelTypeRate": 1
+          },
+          {
+            "parcelType": "Small Catalogue                                                                                     ",
+            "parcelTypeRate": 0.57
+          },
+          {
+            "parcelType": "Medium Catalogue                                                                                    ",
+            "parcelTypeRate": 0.68
+          }
+        ],
+        "additionalServiceOfferRates": [],
+        "prgType": "GENERAL"
+      }
+    ],
+    "subdepot": {
+      "subdepotId": "72",
+      "subdepotName": "Bradford 1",
+      "line1": "Unit 3 Bridgeway",
+      "line2": "Knowles Ln",
+      "postcode": "BD4 9SN",
+      "subDepotDrop": "72",
+      "coordinates": {
+        "latitude": "53.7744075",
+        "longitude": "-1.7200626"
+      }
+    }
+  }
+}
